@@ -9,10 +9,9 @@
         
     </head>
     <body >
-        <h1>
-            Hello from Vietnam!
-        </h1>
-        <p>It's currently {{date('h:i A') }}.</p>
+
+        <p>Built with &heart; by Jean-Nelka Delus.</p>
+        <p><a href="/">Revenir a la page d'accueil</a></p>
         <footer>
             <p>&copyright; {{date('Y')}} &middot; <a href="/about-us">About Us</a></p>
         </footer>
