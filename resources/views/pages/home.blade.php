@@ -14,7 +14,7 @@
         </h1>
         <p>It's currently {{date('h:i A') }}.</p>
         <footer>
-            <p>&copyright; {{date('Y')}} &middot; <a href="/about-us">About Us</a></p>
+            <p>&copyright; {{date('Y')}} &middot; <a href="pages/about-us">About Us</a></p>
         </footer>
     </body>
 </html>
